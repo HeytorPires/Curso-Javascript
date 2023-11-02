@@ -1,0 +1,5 @@
+console.log(typeof "isso é uma strings")
+console.log(typeof 'isso também é uma String')
+console.log(typeof "hello teste")
+console.log(typeof Infinity)
+console.log(typeof "Infinity")

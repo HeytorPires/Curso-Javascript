@@ -1,0 +1,6 @@
+console.log("linha de cima \n linha de baixo XD")
+console.log(` 2 + 2 é igual a ${2 + 2}`)
+console.log(` 4 + 4 é igual a ${4 + 4 }`)
+console.log(` 4 * 4 é igual a ${4*4}`)
+console.log("teste \linha de baixo")
+console.log(" agua"+" mais"+" Melhor"+" de"+" bao")

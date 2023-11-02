@@ -1,0 +1,4 @@
+// getElementsByTagName
+// getElelmentsByld
+// getElementsByClassName
+// querySelect
